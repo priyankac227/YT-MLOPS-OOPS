@@ -1,2 +1,2 @@
-# git-friend
-this is a repo made for collab
+# OOPS
+This repo will cover end to end 
