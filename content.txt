@@ -1,0 +1,8 @@
+ class and obj
+class has data /atttibute and fun/methods 
+why python is called oops ? - everything in python is an object(data structure , data type etc)
+advantages of oops 
+  >you can create your own datatype
+  >code reusability
+  >debugging
+  >easy to colab
